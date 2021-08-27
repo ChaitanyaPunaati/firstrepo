@@ -1,5 +1,5 @@
-01 Hello All, Welcome to web application class
+01 This is Github session
 02 This is 1st assignment of web application
-03 Assignment is related to Git hub
+03 Quiz will be conducted on 30th August
 04 Lab submission due on Aug 27th 03:00 PM
 05 Assignment submission due on Sep 2nd 11:59 PM
